@@ -5,6 +5,7 @@ alias upg='sudo apt upgrade'
 alias gs='git status '
 alias ga='git add '
 alias gc='git commit -m'
+alias tch='touch'
 alias dev='cd $HOME/Документы/Dev'
 #Make directory & enter it
 mkcd() {
